@@ -9,6 +9,6 @@ device such as a mindfles, neurosky, or any EEG.
 Install
 =======
 
-To install simply paste into python shell and were it says "_csv file location_" simply find your csv file within your computer and take the exact locatione and paste in the spot that says "_csv file locatione_".
-This code is intended to sum up all scores from logistic scoring python algorithm in order to get a desired command of "yes" (1) or "no" (0) from the csv data and translate that into a command for any prgram.
+To install simply paste into python shell and were it says "_csv file name_" simply find your csv file within your computer and take the exact locatione and paste in the spot that says "_csv file name_".
+This code is intended to sum up all scores from .csv file and input into the logistic scoring python algorithm in order to get a desired command of "yes" (1) or "no" (0) from the csv data and translate that into a command for any program.
 Of course this one code does not doo all of that but it does sum up the list of data which you can use in the logistic scoring algoritm or any one you choose.
