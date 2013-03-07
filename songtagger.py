@@ -4,7 +4,7 @@ ave_columns = data.sum(axis=0)/(float(data.shape[0]))
 #data.sum()
 
 reader = int_wrapper(reader)
-with open('_csv file locatione_', 'rb') as f:
+with open('_csv file location_', 'rb') as f:
 
     for row in reader (f):
         sum += int_wrapper(reader)
