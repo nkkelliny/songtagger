@@ -27,5 +27,5 @@ nosetests.xml
 # Translations
 *.mo
 
-# Mr. Kelliny
+# Hack_a_brain
 .songtagger
